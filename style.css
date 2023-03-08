@@ -1,7 +1,18 @@
-.title{
+.body{
+background-color: blueviolet;
+border: 10px solid blue;
+padding: 150px;
+width:1250px;
+height: 1250 px;
+text-align: auto;
+  
+  }
+  
+  .title{
     color:rgb(0, 0, 0);
-    width: 50%;
-    margin-left: 450px;
+    background-color: mediumseagreen ;
+    width: 70%;
+    margin-left: 70px;
     text-shadow: 2px 2px 5px rgb(238, 237, 231)
     }
 
@@ -15,24 +26,15 @@
 }
 
 .textos{  
-    color: rgb(50, 51, 50);
+    color: rgb(5, 5, 5);
     width: 50%;
     margin-left: 20px;
     border: 4px solid brown;
 }
 
-.body{
-background-color: rgb(8, 100, 131);
-border: 10px solid purple;
-padding: 150px;
-width:1250px;
-height: 1250 px;
-text-align: auto;
-  
-  }
   img {
     position: auto;
-  border: 10px solid #ddd;
+  border: 10px solid rgb(221, 221, 221);
   border-radius: 4px;
   width: 200px;
   height: 300px;
@@ -62,3 +64,5 @@ text-align: auto;
     height: 40px;
     margin: 10px 38px 25px 38px;
   }
+  
+  
